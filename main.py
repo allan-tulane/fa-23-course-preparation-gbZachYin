@@ -7,5 +7,7 @@ def myfunction(input):
 	return input
 
 
+# if __name__ == '__main__':
 
+#   print('hello world')  
 
